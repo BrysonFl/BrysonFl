@@ -1,4 +1,4 @@
-<figure style="display: flex; align-items: center justify-content: center">
+<figure style="text-align: center">
  <img src="/assets/Logo.png"><img>
 <figure>
 
