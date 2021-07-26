@@ -3,7 +3,7 @@
 <h1>Hi there, I am Bryson Florez 👋</h1>
 
 <p>Welcome to my Github page.</p>
-<p>I am fullstack developer from Bogotá, Colombia</p>
+<p>I am fullstack developer</p>
 
 <div>
   <h2>Tecnhologies that I love</h2>
