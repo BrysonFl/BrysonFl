@@ -22,3 +22,5 @@
     <img src="https://img.shields.io/badge/angular-DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" />
   </p>
 </div>
+
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=brysonfl)
