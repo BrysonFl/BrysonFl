@@ -6,7 +6,7 @@
 <p>I am fullstack developer</p>
 
 <div>
-  <h2>Tecnhologies that I love</h2>
+  <h2>Tecnhologies I love</h2>
 
   <p>
     <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
