@@ -1,4 +1,4 @@
-<link rel="stylsheet" type="text/css" href="./styles/styles.css"></link>
+<link rel="stylesheet" type="text/css" href="./styles/styles.css"></link>
 
 <h1>Hi there, I am Bryson Florez 👋</h1>
 
