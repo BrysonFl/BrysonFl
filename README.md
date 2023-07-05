@@ -1,5 +1,8 @@
 <div>
-  <h1 class="green">Hi there</h1>
+  <h1>Hi there</h1>
+  <p>
+    I'm Bryson Florez, a software developer from Bogotá - Colombia, I've been working for almost six years as a support developer, but I don't like it, 
+  </p>
 </div>
 
 <div align="center">
@@ -28,19 +31,9 @@
 </div>
 
 <div align="center" class="container">
-  <div>
-    <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
-  </div>
+  <img src="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/spring%20boot-6DB33F.svg?&style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 </div>
