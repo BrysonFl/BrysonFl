@@ -1,7 +1,7 @@
 <div>
   <h1>Hi there</h1>
   <p>
-    I'm Bryson Florez, a software developer from Bogotá - Colombia, I've been working for almost six years as a support developer, but I don't like it, 
+    
   </p>
 </div>
 
