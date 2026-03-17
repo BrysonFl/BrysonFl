@@ -28,10 +28,11 @@ Mi enfoque principal es el desarrollo de sistemas de alta disponibilidad y escal
 2. **[App Mobile] Mental Health Connect:** Plataforma de conexión psicólogo-paciente con chat y gestión de notas.
 3. **[App Mobile] Cyclist Hub:** Geolocalización de talleres y agendamiento para ciclistas.
 
-### 🛡️ Senior Expertise (10+ Years)
+### 🛠️ Professional Stack & Academic Focus
+
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-### 🎓 Academic & Competitive Focus
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![U. Catolica](https://img.shields.io/badge/U._Catolica-8B0000?style=for-the-badge&logo=googlescholar&logoColor=white)
+![Competitive](https://img.shields.io/badge/Competitive_Prog-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
