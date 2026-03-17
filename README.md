@@ -1,2 +1,3 @@
 <h1>Hola</h1>
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
+
+<img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
